@@ -63,7 +63,7 @@ export default function Header() {
                             </Link>
                         ))}
                         <Link
-                            href="https://www.facebook.com/profile.php?id=61588238562809"
+                            href="https://www.facebook.com/profile.php?id=61588479037664"
                             target="_blank"
                             className="text-gray-700 hover:text-[var(--primary)] transition-all duration-300 font-semibold relative group text-sm uppercase tracking-wide"
                             onClick={() => setIsMobileMenuOpen(false)}
@@ -109,7 +109,7 @@ export default function Header() {
                             </Link>
                         ))}
                         <Link
-                            href="https://www.facebook.com/profile.php?id=61588238562809"
+                            href="https://www.facebook.com/profile.php?id=61588479037664"
                             target="_blank"
                             className="text-gray-700 hover:text-[var(--primary)] hover:bg-gray-50 transition-all duration-300 font-medium py-3 px-6 rounded-lg mx-2 border border-transparent hover:border-[var(--primary)]/30"
                             onClick={() => setIsMobileMenuOpen(false)}

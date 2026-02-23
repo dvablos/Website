@@ -1,6 +1,7 @@
 'use client';
 
 import { useState } from 'react';
+import { whatsapp } from "../../utils/whatsapp";
 
 export default function Contacto() {
     const [formData, setFormData] = useState({
@@ -34,7 +35,7 @@ export default function Contacto() {
 
     const handleWhatsapp = () => {
         const mensaje = encodeURIComponent("Hola, me gustaría obtener información sobre sus servicios.");
-        window.open(`https://wa.me/51948599036?text=${mensaje}`, "_blank");
+        window.open(`https://wa.me/${whatsapp}?text=${mensaje}`, "_blank");
     };
 
     const inputBase =

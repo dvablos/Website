@@ -1,11 +1,12 @@
 import Image from "next/image";
 import Link from "next/link";
+import { whatsapp } from "../utils/whatsapp";
 
 
 const socialLinks = [
     {
         name: 'Facebook',
-        href: 'https://www.facebook.com/profile.php?id=61588238562809',
+        href: 'https://www.facebook.com/profile.php?id=61588479037664',
         target: '_blank',
         icon: (
             <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
@@ -25,7 +26,7 @@ const socialLinks = [
     },
     {
         name: 'WhatsApp',
-        href: 'https://wa.me/51948599036?text=Hola!%20Me%20interesa%20conocer%20más%20sobre%20sus%20servicios',
+        href: `https://wa.me/${whatsapp}?text=${encodeURIComponent("Hola! Buscamos informacion de sus servicios")}`,
 
         icon: (
             <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">

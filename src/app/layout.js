@@ -1,6 +1,7 @@
 import { Geist, Geist_Mono, DM_Serif_Text } from "next/font/google";
 import "./globals.css";
-import { GoogleTagManager } from '@next/third-parties/google'
+import { GoogleTagManager } from '@next/third-parties/google';
+import { whatsapp } from "./utils/whatsapp";
 
 const dmSerifText = DM_Serif_Text({
   variable: "--font-dm-serif-text",
@@ -104,7 +105,7 @@ export default function RootLayout({ children }) {
 
         {/* Botón flotante de WhatsApp */}
         <a
-          href="https://wa.me/51948599036?text=Hola!%20Me%20interesa%20conocer%20más%20sobre%20sus%20servicios"
+          href={`https://wa.me/${whatsapp}?text=${encodeURIComponent("Hola! Buscamos informacion de sus servicios")}`}
           target="_blank"
           rel="noopener noreferrer"
           aria-label="Contactar por WhatsApp"

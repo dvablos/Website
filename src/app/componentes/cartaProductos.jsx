@@ -1,6 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import productos from "../utils/productos";
+import { whatsapp } from "../utils/whatsapp";
 
 
 export default function CartaProductos({ limit }) {
@@ -47,7 +48,7 @@ export default function CartaProductos({ limit }) {
                                 {/* Action Area */}
                                 <div className="mt-auto pt-4 border-t border-gray-50 flex gap-2">
                                     <Link
-                                        href={`https://wa.me/51948599036?text=Hola!%20Me%20interesa%20el%20producto%20${producto.name}`}
+                                        href={`https://wa.me/${whatsapp}?text=${encodeURIComponent("Hola! Buscamos informacion de sus servicios")}`}
                                         target="_blank"
                                         className="flex-1 py-3 px-4 bg-[#25D366] hover:bg-[#20bd5a] text-white font-bold rounded-xl flex items-center justify-center gap-2 transition-all duration-300 shadow-sm hover:shadow-green-500/20 active:scale-95"
                                     >
@@ -57,7 +58,7 @@ export default function CartaProductos({ limit }) {
                                         <span className="text-sm">WhatsApp</span>
                                     </Link>
                                     <Link
-                                        href="https://www.facebook.com/profile.php?id=61588238562809"
+                                        href="https://www.facebook.com/profile.php?id=61588479037664"
                                         target="_blank"
                                         className="flex-1 py-3 px-4 bg-[#1877F2] hover:bg-[#1464d8] text-white font-bold rounded-xl flex items-center justify-center gap-2 transition-all duration-300 shadow-sm hover:shadow-blue-500/20 active:scale-95"
                                     >
