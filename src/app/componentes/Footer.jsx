@@ -1,12 +1,12 @@
 import Image from "next/image";
 import Link from "next/link";
 import { whatsapp } from "../utils/whatsapp";
-
+import { facebook } from "../utils/facebook";
 
 const socialLinks = [
     {
         name: 'Facebook',
-        href: 'https://www.facebook.com/profile.php?id=61588479037664',
+        href: facebook,
         target: '_blank',
         icon: (
             <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">

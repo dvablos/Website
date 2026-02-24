@@ -2,6 +2,7 @@ import Link from "next/link";
 import Image from "next/image";
 import productos from "../utils/productos";
 import { whatsapp } from "../utils/whatsapp";
+import { facebook } from "../utils/facebook";
 
 
 export default function CartaProductos({ limit }) {
@@ -58,7 +59,7 @@ export default function CartaProductos({ limit }) {
                                         <span className="text-sm">WhatsApp</span>
                                     </Link>
                                     <Link
-                                        href="https://www.facebook.com/profile.php?id=61588479037664"
+                                        href={facebook}
                                         target="_blank"
                                         className="flex-1 py-3 px-4 bg-[#1877F2] hover:bg-[#1464d8] text-white font-bold rounded-xl flex items-center justify-center gap-2 transition-all duration-300 shadow-sm hover:shadow-blue-500/20 active:scale-95"
                                     >
