@@ -28,7 +28,7 @@ export default function CartaBlog() {
 
                     </div>
                     <div className="p-3">
-                        <p className="text-sm font-semibold">{video.description}</p>
+                        <p className="text-sm font-semibold text-gray-700">{video.description}</p>
                     </div>
                 </div>
             ))}
