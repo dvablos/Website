@@ -46,7 +46,7 @@ export default function ServiciosView() {
 
                         <p className="text-gray-600 text-lg">Brindamos soluciones integrales en redes de telecomunicaciones, infraestructura tecnológica, servidores, entornos Cloud y ciberseguridad. Diseñamos, implementamos y mantenemos sistemas robustos, seguros y escalables, adaptados a las necesidades de cada organización.</p>
                         <Link
-                            href={`https://wa.me/51948599036?text=Hola!%20Me%20interesa%20el%20producto%20${"Hola buscamos informacion"}`}
+                            href={`https://wa.me/51948599036?text=${encodeURIComponent("Hola! Quisiera información sobre Soluciones Integrales")}`}
                             target="_blank"
                             className="group relative inline-flex items-center justify-center gap-3 px-6 py-3 text-base sm:px-8 sm:py-4 sm:text-lg bg-[#25D366] hover:bg-[#20bd5a] text-white font-bold rounded-full transition-all duration-300 transform hover:scale-105 hover:shadow-lg hover:shadow-green-500/30 mt-6 w-full sm:w-auto"
                         >
@@ -120,7 +120,7 @@ export default function ServiciosView() {
                             La primera fase de nuestro proceso es el estudio y análisis detenido de la infraestructura de red.
                         </p>
                         <Link
-                            href={`https://wa.me/51948599036?text=Hola!%20Me%20interesa%20el%20producto%20${"Hola buscamos informacion"}`}
+                            href={`https://wa.me/51948599036?text=${encodeURIComponent("Hola! Quisiera información sobre Análisis y Diseño de Redes")}`}
                             target="_blank"
                             className="group relative inline-flex items-center justify-center gap-3 px-6 py-3 text-base sm:px-8 sm:py-4 sm:text-lg bg-[#25D366] hover:bg-[#20bd5a] text-white font-bold rounded-full transition-all duration-300 transform hover:scale-105 hover:shadow-lg hover:shadow-green-500/30 mt-6 w-full sm:w-auto"
                         >
