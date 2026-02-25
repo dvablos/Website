@@ -59,6 +59,16 @@ const productos = [
         ],
         imagen: "/productos/celular.jpg",
     },
+    {
+        id: 7,
+        name: "a",
+        description: [
+            "Televisor con 4GB de RAM.",
+            "Televisor con 4GB de RAM.",
+            "Celular con 4GB de RAM.",
+        ],
+        imagen: "/productos/televisor.jpg",
+    },
 ];
 
 export default productos;

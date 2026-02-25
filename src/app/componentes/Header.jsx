@@ -8,6 +8,7 @@ const navLinks = [
     { href: "/servicios", label: "Servicios" },
     { href: "/productos", label: "Productos" },
     { href: "/blog", label: "Blog" },
+    { href: "/aaa", label: "aaa" },
 
 ];
 
@@ -108,6 +109,7 @@ export default function Header() {
                                 {link.label}
                             </Link>
                         ))}
+                        {/* Facebook */}
                         <Link
                             href={facebook}
                             target="_blank"
@@ -116,6 +118,8 @@ export default function Header() {
                         >
                             Marketplace
                         </Link>
+
+
                         <Link
                             href="/contacto"
                             className="mx-2 mt-2 px-6 py-3 bg-gradient-to-r from-[var(--primary)] to-blue-400 text-white font-bold rounded-lg transition-all duration-300 hover:shadow-lg hover:shadow-[var(--primary)]/30 text-center"
