@@ -17,7 +17,7 @@ export default function Productos() {
                     {/* Header Section */}
                     <div className="text-center max-w-3xl mx-auto mb-16 mt-32 space-y-4">
                         <h1 className="text-4xl md:text-5xl font-extrabold text-gray-900 tracking-tight font-dm-serif-text">
-                            Nuestros <span className="text-[var(--primary)]">Productos</span>
+                            Nuestros <span className="text-[var(--primary)]">Productos y Soluciones de Tecnologías</span>
                         </h1>
                         <p className="text-lg text-gray-600">
                             Ofrecemos soluciones en redes de telecomunicaciones, soluciones Cloud,
