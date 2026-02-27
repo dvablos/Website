@@ -15,16 +15,28 @@ export default function Hero() {
                     {/* Content */}
                     <div className="flex flex-col gap-6 md:gap-8 max-w-2xl mx-auto lg:mx-0 text-center lg:text-left z-10">
                         <h1 className="text-4xl md:text-5xl lg:text-6xl font-extrabold tracking-tight text-gray-900 leading-tight">
+<<<<<<< HEAD
                             Servicios <span className="text-[var(--primary)]">Digitales y Tecnología</span>
+=======
+                            Servicios <span className="text-[var(--primary)]">Digitales</span>
+>>>>>>> 23266b174a75bc4f98346cbf5b17f1c51151b20a
                         </h1>
 
                         <p className="text-lg md:text-xl text-gray-600 leading-relaxed">
                             Ofrecemos soluciones en redes de telecomunicaciones, soluciones cloud,
+<<<<<<< HEAD
                             Servidores e Infraestructura, Ciberseguridad y Desarrollo de paginas web.
                             <br className="hidden md:block" />
                             <span className="block mt-4 text-gray-500 text-base md:text-lg">
                                 Realizamos todo tipo de proyectos de telecomunicaciones
                                 para pequeñas, mediana, grandes empresas y la Minería.
+=======
+                            servidores, servicios de infraestructura y ciberseguridad en general.
+                            <br className="hidden md:block" />
+                            <span className="block mt-4 text-gray-500 text-base md:text-lg">
+                                Realizamos todo tipo de proyectos de ingeniería de telecomunicaciones
+                                para proveedores de servicios de internet e industrias.
+>>>>>>> 23266b174a75bc4f98346cbf5b17f1c51151b20a
                             </span>
                         </p>
 

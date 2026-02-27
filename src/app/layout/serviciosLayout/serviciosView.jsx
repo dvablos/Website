@@ -42,7 +42,11 @@ export default function ServiciosView() {
                         </div>
                     </div>
                     <div >
+<<<<<<< HEAD
                         <h3 className="text-4xl font-bold font-dm-serif-text mb-4 text-[var(--primary)] ">Soluciones Integrales de Telecomunciaciones</h3>
+=======
+                        <h3 className="text-4xl font-bold font-dm-serif-text mb-4 text-[var(--primary)] ">Soluciones Integrales</h3>
+>>>>>>> 23266b174a75bc4f98346cbf5b17f1c51151b20a
 
                         <p className="text-gray-600 text-lg">Brindamos soluciones integrales en redes de telecomunicaciones, infraestructura tecnológica, servidores, entornos Cloud y ciberseguridad. Diseñamos, implementamos y mantenemos sistemas robustos, seguros y escalables, adaptados a las necesidades de cada organización.</p>
                         <Link
@@ -64,7 +68,11 @@ export default function ServiciosView() {
                     <div>
                         <h3 className="text-4xl font-bold text-[var(--primary)] font-dm-serif-text mb-4">Tipos de Trabajos</h3>
                         <p className="text-gray-600 text-lg">
+<<<<<<< HEAD
                             Realizamos todo tipo de proyectos de ingeniería de Telecomunicaciones para la pequeña, mediana, gran empresa y la Minería.
+=======
+                            Realizamos todo tipo de proyectos de ingeniería de telecomunicaciones para Proveedores de Servicios de Internet e Industrias.
+>>>>>>> 23266b174a75bc4f98346cbf5b17f1c51151b20a
                             <br />
                             Implementamos estrategias tecnológicas en la arquitectura de las redes para obtener una comunicación estable y segura.</p>
                         <Link
@@ -115,9 +123,15 @@ export default function ServiciosView() {
                         </div>
                     </div>
                     <div>
+<<<<<<< HEAD
                         <h3 className="text-4xl font-bold text-[var(--primary)] font-dm-serif-text mb-4">Diseños y planificación de Proyectos de Telecomunicaciones para pequeñas, medianas, gran empresa y la Mineria</h3>
                         <p className="text-gray-600 text-lg">
                             La primera fase de nuestro proceso es el estudio y análisis detenido en la infraestructura de Red, Telecomunicaciones y TI de su empresa.
+=======
+                        <h3 className="text-4xl font-bold text-[var(--primary)] font-dm-serif-text mb-4">Análisis y Diseño de Redes</h3>
+                        <p className="text-gray-600 text-lg">
+                            La primera fase de nuestro proceso es el estudio y análisis detenido de la infraestructura de red.
+>>>>>>> 23266b174a75bc4f98346cbf5b17f1c51151b20a
                         </p>
                         <Link
                             href={`https://wa.me/51948599036?text=${encodeURIComponent("Hola! Quisiera información sobre Análisis y Diseño de Redes")}`}

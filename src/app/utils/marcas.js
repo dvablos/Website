@@ -22,6 +22,7 @@ export const marcas = [
         marca: "huawei-logo",
         img: "huawei.png",
 
+<<<<<<< HEAD
     },
     {
         marca: "mikrotik-logo",
@@ -37,6 +38,8 @@ export const marcas = [
         marca: "vmware-logo",
         img: "vmware.png",
 
+=======
+>>>>>>> 23266b174a75bc4f98346cbf5b17f1c51151b20a
     }
 ];
 

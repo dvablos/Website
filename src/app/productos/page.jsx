@@ -17,12 +17,20 @@ export default function Productos() {
                     {/* Header Section */}
                     <div className="text-center max-w-3xl mx-auto mb-16 mt-32 space-y-4">
                         <h1 className="text-4xl md:text-5xl font-extrabold text-gray-900 tracking-tight font-dm-serif-text">
+<<<<<<< HEAD
                             Nuestros <span className="text-[var(--primary)]">Productos y Soluciones de Tecnologías</span>
                         </h1>
                         <p className="text-lg text-gray-600">
                             Ofrecemos soluciones en redes de telecomunicaciones, soluciones Cloud,
                             Servidores y servicios de Infraestructura y ciberseguridad.
                             Somos distribuidores especialistas de las mejores marcas del mercado de las tecnologías como: Cisco, Huawei, Fortinet, Alcatel, Mikrotik, TPLink, etc.
+=======
+                            Nuestros <span className="text-[var(--primary)]">Productos</span>
+                        </h1>
+                        <p className="text-lg text-gray-600">
+                            Descubre nuestra selección de tecnología y dispositivos de alta calidad,
+                            diseñados para potenciar tus proyectos digitales.
+>>>>>>> 23266b174a75bc4f98346cbf5b17f1c51151b20a
                         </p>
                     </div>
 
