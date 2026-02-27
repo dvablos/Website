@@ -1,0 +1,1 @@
+export const whatsapp = 51948599036;
