@@ -5,11 +5,10 @@ import { marcas } from "../utils/marcas";
 export default function Marcas() {
     return (
         <div className="flex flex-col items-center justify-center gap-2 w-full ">
-<<<<<<< HEAD
+
             <h4 className="text-4xl md:text-5xl font-extrabold text-gray-900 tracking-tight font-dm-serif-text mt-20 text-center">Trabajamos con las mejores Marcas del Mercado tecnologico</h4>
-=======
-            <h4 className="text-4xl md:text-5xl font-extrabold text-gray-900 tracking-tight font-dm-serif-text mt-20 text-center">Marcas con las que trabajamos</h4>
->>>>>>> 23266b174a75bc4f98346cbf5b17f1c51151b20a
+
+           
             <div className="flex flex-wrap justify-center items-center gap-4">
                 {marcas.map((marca) => (
                     <div key={marca.marca} className="flex flex-col items-center gap-2">

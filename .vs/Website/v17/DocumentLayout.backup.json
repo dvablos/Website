@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\somebody\\Desktop\\Website\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\somebody\\Desktop\\Website\\src\\app\\productos\\page.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\productos\\page.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\somebody\\Desktop\\Website\\src\\app\\utils\\productos.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\utils\\productos.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\somebody\\Desktop\\Website\\src\\app\\productos\\layout.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\productos\\layout.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\somebody\\Desktop\\Website\\src\\app\\layout\\inicio\\contacto.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\layout\\inicio\\contacto.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\somebody\\Desktop\\Website\\src\\app\\layout\\inicio\\productosOverview.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\layout\\inicio\\productosOverview.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\somebody\\Desktop\\Website\\src\\app\\layout\\inicio\\hero.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\layout\\inicio\\hero.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "productos.js",
+              "DocumentMoniker": "C:\\Users\\somebody\\Desktop\\Website\\src\\app\\utils\\productos.js",
+              "RelativeDocumentMoniker": "src\\app\\utils\\productos.js",
+              "ToolTip": "C:\\Users\\somebody\\Desktop\\Website\\src\\app\\utils\\productos.js",
+              "RelativeToolTip": "src\\app\\utils\\productos.js",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-27T23:42:55.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "page.jsx",
+              "DocumentMoniker": "C:\\Users\\somebody\\Desktop\\Website\\src\\app\\productos\\page.jsx",
+              "RelativeDocumentMoniker": "src\\app\\productos\\page.jsx",
+              "ToolTip": "C:\\Users\\somebody\\Desktop\\Website\\src\\app\\productos\\page.jsx",
+              "RelativeToolTip": "src\\app\\productos\\page.jsx",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-02-27T23:42:08.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "layout.jsx",
+              "DocumentMoniker": "C:\\Users\\somebody\\Desktop\\Website\\src\\app\\productos\\layout.jsx",
+              "RelativeDocumentMoniker": "src\\app\\productos\\layout.jsx",
+              "ToolTip": "C:\\Users\\somebody\\Desktop\\Website\\src\\app\\productos\\layout.jsx",
+              "RelativeToolTip": "src\\app\\productos\\layout.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-02-27T23:42:04.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "contacto.jsx",
+              "DocumentMoniker": "C:\\Users\\somebody\\Desktop\\Website\\src\\app\\layout\\inicio\\contacto.jsx",
+              "RelativeDocumentMoniker": "src\\app\\layout\\inicio\\contacto.jsx",
+              "ToolTip": "C:\\Users\\somebody\\Desktop\\Website\\src\\app\\layout\\inicio\\contacto.jsx",
+              "RelativeToolTip": "src\\app\\layout\\inicio\\contacto.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-02-27T23:41:50.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "productosOverview.jsx",
+              "DocumentMoniker": "C:\\Users\\somebody\\Desktop\\Website\\src\\app\\layout\\inicio\\productosOverview.jsx",
+              "RelativeDocumentMoniker": "src\\app\\layout\\inicio\\productosOverview.jsx",
+              "ToolTip": "C:\\Users\\somebody\\Desktop\\Website\\src\\app\\layout\\inicio\\productosOverview.jsx",
+              "RelativeToolTip": "src\\app\\layout\\inicio\\productosOverview.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-02-27T23:38:11.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "hero.jsx",
+              "DocumentMoniker": "C:\\Users\\somebody\\Desktop\\Website\\src\\app\\layout\\inicio\\hero.jsx",
+              "RelativeDocumentMoniker": "src\\app\\layout\\inicio\\hero.jsx",
+              "ToolTip": "C:\\Users\\somebody\\Desktop\\Website\\src\\app\\layout\\inicio\\hero.jsx",
+              "RelativeToolTip": "src\\app\\layout\\inicio\\hero.jsx",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwBsAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-02-27T23:36:08.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
