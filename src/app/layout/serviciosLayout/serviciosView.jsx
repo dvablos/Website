@@ -47,7 +47,7 @@ export default function ServiciosView() {
 
 
 
-                        <p className="text-gray-600 text-lg">Brindamos soluciones integrales en redes de telecomunicaciones, infraestructura tecnológica, servidores, entornos Cloud y ciberseguridad. Diseñamos, implementamos y mantenemos sistemas robustos, seguros y escalables, adaptados a las necesidades de cada organización.</p>
+                        <p className="text-gray-600 text-lg">Soluciones integrales en redes de telecomunicaciones, infraestructura tecnológica, servidores, entornos Cloud y ciberseguridad. Diseñamos, implementamos y mantenemos sistemas robustos, seguros y escalables, adaptados a las necesidades de cada organización.</p>
                         <Link
                             href={`https://wa.me/51948599036?text=${encodeURIComponent("Hola! Quisiera información sobre Soluciones Integrales")}`}
                             target="_blank"
