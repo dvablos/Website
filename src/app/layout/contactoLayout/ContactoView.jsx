@@ -115,7 +115,7 @@ export default function Contacto() {
                         )}
                         {status === 'error' && (
                             <p className="text-sm text-red-600 bg-red-50 border border-red-100 rounded-xl px-4 py-3">
-                                ❌ Ocurrió un error. Por favor intentá de nuevo.
+                                ❌ Ocurrió un error. Por favor intenta de nuevo.
                             </p>
                         )}
 
@@ -146,7 +146,7 @@ export default function Contacto() {
                             </div>
                         </div>
                         <p className="text-gray-500 text-sm mb-5">
-                            ¿Preferís una respuesta inmediata? Escribinos directamente por WhatsApp y te atendemos al instante.
+                            ¿Prefieres una respuesta inmediata? Envianos un mensaje por WhatsApp y te atendemos al instante. Gracias.
                         </p>
                         <button
                             onClick={handleWhatsapp}

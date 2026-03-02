@@ -28,41 +28,22 @@ const productos = [
         description: [
             "Drone de alta calidad aplicado a la Mineria",
             "Drone de alta calidad aplicado a la Agricultura",
-            "Drones para seguridad y eventos",],
-        imagen: "/productos/drone-mineria.png",
-    }, {
-        id: 4,
-        name: "Drone 4K",
-        description: [
-            "Drone de alta calidad con 4K",
-            "Drone de alta calidad con 8K. Wi-Fi",
-            "Drones. consulte modelo",
+            "Drones para seguridad y eventos",
         ],
         imagen: "/productos/drone-4k.png",
-    },
+    }, 
     {
-        id: 5,
-        name: "Drone 8K",
-        description: [
-            "Drone de alta calidad con 4K",
-            "Drone de alta calidad con 8K. Wi-Fi",
-            "Drones. consulte modelo",
-        ],
-        imagen: "/productos/drone1.png",
-    },
-    {
-        id: 6,
+        id: 4,
         name: "Drones",
         description: [
             "Drone de alta calidad con 4K",
             "Drone de alta calidad con 8K. Wi-Fi",
             "Drones. consulte modelo",
-
         ],
         imagen: "/productos/drones.png",
     },
     {
-        id: 7,
+        id: 5,
         name: "Soluciones Internet of Things",
         description: [
             "Soluciones inteligentes para casas y departamentos",
@@ -72,26 +53,17 @@ const productos = [
         imagen: "/productos/internetofthings.jpg",
     },
     {
-        id: 8,
+        id: 6,
         name: "SmartWatch",
         description: [
             "SmartWatch para la salud",
             "SmartWatch para el deporte",
-            "SmartWatch en todas las marcas",],
-        imagen: "/productos/smartwatch.png",
-    },
-    {
-        id: 9,
-        name: "Reloj bluethooth",
-        description: [
-            "Reloj bluethooth compatible con android y ios.",
-            "Reloj bluethooth compatible con android y ios.",
-            "Reloj bluethooth compatible con android y ios.",
+            "SmartWatch en todas las marcas",
         ],
         imagen: "/productos/reloj-blue.png",
     },
     {
-        id: 10,
+        id: 7,
         name: "Reloj fitness",
         description: [
             "Reloj fitness con GPS .",
@@ -102,7 +74,7 @@ const productos = [
         imagen: "/productos/reloj-fitness.jpeg",
     },
     {
-        id: 11,
+        id: 8,
 
         name: "Soluciones Cloud y Servidores Virtuales",
         description: [
@@ -112,7 +84,7 @@ const productos = [
         imagen: "/productos/DATACENTER_1.jpeg",
     },
     {
-        id: 12,
+        id: 9,
         name: "Soluciones de Internet con StarLink",
         description: [
             "Diseñamos soluciones de Internet con StarLink",

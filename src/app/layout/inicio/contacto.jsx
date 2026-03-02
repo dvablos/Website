@@ -16,7 +16,7 @@ export default function Contacto() {
                             Contáctanos <span className="text-transparent bg-clip-text bg-gradient-to-r from-[var(--primary)] to-blue-400">Hoy Mismo</span>
                         </h3>
                         <p className="text-lg md:text-xl text-gray-400 leading-relaxed max-w-2xl mx-auto">
-                            Solicita mantenimiento, instalación o revisión de redes con técnicos certificados y años de experiencia.
+                            Solicita asesoría con Ingenieros y especialistas con años de experiencia.
                             <span className="block mt-2 text-gray-300 font-medium">¡Estamos listos para potenciar tu proyecto!</span>
                         </p>
                     </div>
