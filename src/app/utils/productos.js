@@ -54,24 +54,19 @@ const productos = [
     },
     {
         id: 6,
-        name: "SmartWatch",
+        name: "SmartWatch importados",
         description: [
-            "SmartWatch para la salud",
-            "SmartWatch para el deporte",
-            "SmartWatch en todas las marcas",
+            "SmartWatch importados colores Negro y Gris en stock",
         ],
-        imagen: "/productos/reloj-blue.png",
+        imagen: "/productos/smartw1.jpeg",
     },
     {
         id: 7,
-        name: "Reloj fitness",
+        name: "Reloj SmartWatch con Audifonos",
         description: [
-            "Reloj fitness con GPS .",
-            "Reloj fitness con GPS .",
-            "Reloj fitness con GPS .",
-
+            "Reloj SmartWatch con Audifonos",
         ],
-        imagen: "/productos/reloj-fitness.jpeg",
+        imagen: "/productos/smartw3.jpeg",
     },
     {
         id: 8,
