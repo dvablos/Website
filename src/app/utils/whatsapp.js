@@ -1,1 +1,1 @@
-export const whatsapp = 51904809635;
+export const whatsapp = 51965351291;
